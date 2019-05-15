@@ -10,7 +10,7 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 /**
- * @author 金奇樑(hzjinqiliang)
+ * @author yifan
  * @since 2019/5/14 21:02
  */
 @RunWith(SpringJUnit4ClassRunner.class)
